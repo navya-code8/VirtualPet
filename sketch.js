@@ -14,9 +14,9 @@ function preload()
 {
   dogImg = loadAnimation("dogImg.png")
   happyDogImg = loadAnimation("dogImg1.png")
-  bedroomImg = loadImage("virtual pet images/Bed Room.png")
-  gardenImg = loadImage("virtual pet images/Garden.png")
-  washroomImg = loadImage("virtual pet images/Wash Room.png")
+  bedroomImg = loadImage("Bed Room.png")
+  gardenImg = loadImage("Garden.png")
+  washroomImg = loadImage("Wash Room.png")
 }
 
 
